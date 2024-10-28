@@ -1,0 +1,22 @@
+.bienvenue{
+    background-image: url(images/bullegogue_allonger.jpeg);
+}
+#evenement{
+    display: flex;
+}
+.logo{
+    width: 3.5rem;
+}
+.section-info img{
+    width: 15rem;
+}
+.section-info{
+    display: flex;
+}
+.prénom{
+    text-align: center;
+}
+.evenement{
+    background-color: rgba(57, 55, 55, 0.692);
+    color: white;
+}
